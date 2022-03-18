@@ -1,3 +1,16 @@
+# About My Project
+
+This is a simple 'book search' website. when users write any lettter in the search box, suggestions will be displayed accordingly. 
+And finally they will get the book they searched for.
+
+# The API Used 
+
+http://openlibrary.org/search.json?author=tolkien
+
+# The interface
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
