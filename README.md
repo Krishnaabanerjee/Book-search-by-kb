@@ -7,9 +7,6 @@ And finally they will get the book they searched for.
 
 http://openlibrary.org/search.json?author=tolkien
 
-# The interface
-
-
 
 # Getting Started with Create React App
 
